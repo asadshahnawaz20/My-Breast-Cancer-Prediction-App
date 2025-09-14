@@ -28,10 +28,11 @@ It uses the **Breast Cancer Wisconsin dataset** and provides predictions through
 ## 🖥️ Screenshots  
 
 ### 🔹 Negative (Not Cancerous)
-!(screenshots/Negative.png)  
+![Negative Prediction Screenshot](screenshots/Negative.png)
 
-### 🔹 Positive (Cancerous)  
-!(screenshots/Positive.png)  
+### 🔹 Positive (Cancerous)
+![Positive Prediction Screenshot](screenshots/Positive.png)
+
 
 ---
 
